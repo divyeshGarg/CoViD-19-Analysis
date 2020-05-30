@@ -1,1 +1,3 @@
-*.csv
+backupData/*
+data/*
+.ipynb_checkpoints/*
